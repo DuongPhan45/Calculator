@@ -1,2 +1,2 @@
 # Calculator
- Utilized Shunting-yard Algorithm in Java program implementing self-customed data structures to build a simple calculator that performs arithmetic operations, trigonometric functions and logical expressions
+A calculator that can perform arithmetic operations, trigonometric functions and logical expressions utilizing Shunting-yard Algorithm and self-custom data structures implementation
